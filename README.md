@@ -1,2 +1,2 @@
 # ATM-Simulator-System
- Java application
+ Java application using mysql , java swing
